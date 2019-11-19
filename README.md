@@ -1,2 +1,4 @@
 # Seekur-VREP
-Package containing a simulation with Seekur Jr. for Vrep
+Package containing a Seekur Jr simulation for Vrep.
+
+
